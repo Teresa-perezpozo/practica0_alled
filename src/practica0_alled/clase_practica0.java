@@ -15,7 +15,7 @@ public class clase_practica0 {
 	if(x>umbral) 
 		System.out.println("por encima del umbral");
 	for(int i= x;i>umbral;i++){
-		x--;
+		x++;
 	}
 	if(x==5)
 		System.out.println("Has dado en el clavo!!");
